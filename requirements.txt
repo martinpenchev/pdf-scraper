@@ -1,0 +1,3 @@
+tika
+pdftotree
+beautifulsoup4
